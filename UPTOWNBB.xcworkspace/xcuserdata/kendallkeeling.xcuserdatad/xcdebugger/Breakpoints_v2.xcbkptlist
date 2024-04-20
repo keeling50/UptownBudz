@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7EF35B44-70BC-4DF1-B8B5-7066B6DE294E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "533D151D-FF43-4E49-890A-AC52391CEE80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UPTOWNBB/Setting/UserSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "logout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "533D151D-FF43-4E49-890A-AC52391CEE80 - c4a6d20bad804875"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "533D151D-FF43-4E49-890A-AC52391CEE80 - c4a6d20bad804875"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "533D151D-FF43-4E49-890A-AC52391CEE80 - c4a6d20bad804854"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CEB98EE-3EA8-4613-9D97-6C307872EC44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UPTOWNBB/Setting/UserSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "logout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CEB98EE-3EA8-4613-9D97-6C307872EC44 - db70d2776e31ecc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "2CEB98EE-3EA8-4613-9D97-6C307872EC44 - db70d2776e31ecc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "2CEB98EE-3EA8-4613-9D97-6C307872EC44 - c4a6d20bad804854"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "2CEB98EE-3EA8-4613-9D97-6C307872EC44 - c4a6d20bad8049b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBAA8C0D-C924-4D95-A585-B9022A8FBD5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UPTOWNBB/Setting/UserSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "logout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBAA8C0D-C924-4D95-A585-B9022A8FBD5A - c4a6d20bad80481a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "EBAA8C0D-C924-4D95-A585-B9022A8FBD5A - db70d2776e31ec86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "EBAA8C0D-C924-4D95-A585-B9022A8FBD5A - c4a6d20bad804875"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "EBAA8C0D-C924-4D95-A585-B9022A8FBD5A - db70d2776e31ece9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "EBAA8C0D-C924-4D95-A585-B9022A8FBD5A - c4a6d20bad804854"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UPTOWNBB.UserSettings.logout() -&gt; ()"
+                  moduleName = "UPTOWNBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallkeeling/Desktop/Xcode%20ISH/UPTOWNBB/UPTOWNBB/Setting/UserSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48E9676D-05C9-4F05-BFB1-087F9ECF97AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UPTOWNBB/UPTOWNBBApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6004DE9-4244-466C-A13A-81D8115F6E5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UPTOWNBB/Setting/UserSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "logout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52698DC4-F690-4813-BB5E-622D2A472077"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UPTOWNBB/Setting/UserSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "logout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
